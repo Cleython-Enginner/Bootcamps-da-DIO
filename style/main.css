@@ -3,6 +3,7 @@
 --preto:#141414;
 
 
+
 }
 
 *{
@@ -51,7 +52,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa_billons.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(owl/capa_billons.jpg);
 
     
     height: 400px;

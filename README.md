@@ -1,2 +1,3 @@
-# Bootcamps-da-DIO
-Repositórios dos desafios e projetos da DIO
+#  Projeto Clone da NetFlix
+
+![Screenshot](https://github.com/Cleython-Enginner/clone-netflix/blob/master/img/telanetflix.png)
